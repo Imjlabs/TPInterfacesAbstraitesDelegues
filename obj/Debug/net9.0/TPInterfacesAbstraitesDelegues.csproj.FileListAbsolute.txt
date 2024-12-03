@@ -1,0 +1,14 @@
+C:\Users\jraphael\OneDrive - UTH-UNITED TECHNOLOGY HOSPITALITY\Documents\Cours C#\TPInterfacesAbstraitesDelegues\bin\Debug\net9.0\TPInterfacesAbstraitesDelegues.exe
+C:\Users\jraphael\OneDrive - UTH-UNITED TECHNOLOGY HOSPITALITY\Documents\Cours C#\TPInterfacesAbstraitesDelegues\bin\Debug\net9.0\TPInterfacesAbstraitesDelegues.deps.json
+C:\Users\jraphael\OneDrive - UTH-UNITED TECHNOLOGY HOSPITALITY\Documents\Cours C#\TPInterfacesAbstraitesDelegues\bin\Debug\net9.0\TPInterfacesAbstraitesDelegues.runtimeconfig.json
+C:\Users\jraphael\OneDrive - UTH-UNITED TECHNOLOGY HOSPITALITY\Documents\Cours C#\TPInterfacesAbstraitesDelegues\bin\Debug\net9.0\TPInterfacesAbstraitesDelegues.dll
+C:\Users\jraphael\OneDrive - UTH-UNITED TECHNOLOGY HOSPITALITY\Documents\Cours C#\TPInterfacesAbstraitesDelegues\bin\Debug\net9.0\TPInterfacesAbstraitesDelegues.pdb
+C:\Users\jraphael\OneDrive - UTH-UNITED TECHNOLOGY HOSPITALITY\Documents\Cours C#\TPInterfacesAbstraitesDelegues\obj\Debug\net9.0\TPInterfacesAbstraitesDelegues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jraphael\OneDrive - UTH-UNITED TECHNOLOGY HOSPITALITY\Documents\Cours C#\TPInterfacesAbstraitesDelegues\obj\Debug\net9.0\TPInterfacesAbstraitesDelegues.AssemblyInfoInputs.cache
+C:\Users\jraphael\OneDrive - UTH-UNITED TECHNOLOGY HOSPITALITY\Documents\Cours C#\TPInterfacesAbstraitesDelegues\obj\Debug\net9.0\TPInterfacesAbstraitesDelegues.AssemblyInfo.cs
+C:\Users\jraphael\OneDrive - UTH-UNITED TECHNOLOGY HOSPITALITY\Documents\Cours C#\TPInterfacesAbstraitesDelegues\obj\Debug\net9.0\TPInterfacesAbstraitesDelegues.csproj.CoreCompileInputs.cache
+C:\Users\jraphael\OneDrive - UTH-UNITED TECHNOLOGY HOSPITALITY\Documents\Cours C#\TPInterfacesAbstraitesDelegues\obj\Debug\net9.0\TPInterfacesAbstraitesDelegues.dll
+C:\Users\jraphael\OneDrive - UTH-UNITED TECHNOLOGY HOSPITALITY\Documents\Cours C#\TPInterfacesAbstraitesDelegues\obj\Debug\net9.0\refint\TPInterfacesAbstraitesDelegues.dll
+C:\Users\jraphael\OneDrive - UTH-UNITED TECHNOLOGY HOSPITALITY\Documents\Cours C#\TPInterfacesAbstraitesDelegues\obj\Debug\net9.0\TPInterfacesAbstraitesDelegues.pdb
+C:\Users\jraphael\OneDrive - UTH-UNITED TECHNOLOGY HOSPITALITY\Documents\Cours C#\TPInterfacesAbstraitesDelegues\obj\Debug\net9.0\TPInterfacesAbstraitesDelegues.genruntimeconfig.cache
+C:\Users\jraphael\OneDrive - UTH-UNITED TECHNOLOGY HOSPITALITY\Documents\Cours C#\TPInterfacesAbstraitesDelegues\obj\Debug\net9.0\ref\TPInterfacesAbstraitesDelegues.dll
